@@ -1,0 +1,93 @@
+/*<style>*/
+h1 {
+	font-size: 3em;
+	border-style: dotted;
+	line-height: 100%
+}
+
+h2 {
+	font-size: 3em;
+	letter-spacing: 2px;
+	border-style: double;
+	border-right-width: 15px;
+	line-height: 70%	
+}
+h3{
+	font-size: 3em;
+	letter-spacing: 2px;
+	border-width: auto;
+	border-style: outset;
+	line-height: 100%
+}
+
+h4 {
+	font-size: 3em;
+	border-style: double;
+	border-left: thick double #ff0000;
+	line-height: 100%
+}
+
+p {
+	font-family: 'Gochi Hand', cursive;
+	color: black;
+	padding-top: 40px;
+	padding-right: 20px;
+	padding-bottom: 40px;
+	padding-left: 20px;
+	line-height: 200%
+
+}
+  .thick-green-border {
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+}
+.thick-blue-border {
+	border-color: blue;
+    border-width: 5px;
+    border-style: solid;
+}
+.border-hitam {
+	border-color: black;
+	border-width: 5px;
+    border-style: solid;
+}
+
+.larger-image {
+	width: 500px;
+}
+
+.smaller-image {
+	width : 300px;
+}
+
+img.kiri {
+    float: left;
+    margin: 5px;
+}
+img.tengah {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.kanan {
+    float: right;
+    margin: 10px;
+    margin-bottom: 40px;
+}
+
+.white-text {
+	color : white;
+}
+
+.maroon-text {
+	color: maroon;
+}
+
+.navy-text {
+	color : navy;
+}
+
+.
+/*</style>*/
